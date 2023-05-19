@@ -4,7 +4,6 @@
 from collections import deque
 
 
-
 def process_queue(input_file):
     queue = deque()
 
